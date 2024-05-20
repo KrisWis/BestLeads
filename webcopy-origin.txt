@@ -1,0 +1,124 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: E:\DownLoaded_WebSites\playcash.network\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap
+File Name: E:\DownLoaded_WebSites\playcash.network\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: E:\DownLoaded_WebSites\playcash.network\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: E:\DownLoaded_WebSites\playcash.network\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: E:\DownLoaded_WebSites\playcash.network\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: E:\DownLoaded_WebSites\playcash.network\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://playcash.network/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: E:\DownLoaded_WebSites\playcash.network\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://playcash.network/css/main.css
+File Name: E:\DownLoaded_WebSites\playcash.network\css\main.css
+Content Type: text/css
+
+Uri: https://playcash.network/en/
+File Name: E:\DownLoaded_WebSites\playcash.network\en\index.htm
+Content Type: text/html
+
+Uri: https://playcash.network/en/advertisers.html
+File Name: E:\DownLoaded_WebSites\playcash.network\en\advertisers.html
+Content Type: text/html
+
+Uri: https://playcash.network/en/faq.html
+File Name: E:\DownLoaded_WebSites\playcash.network\en\faq.html
+Content Type: text/html
+
+Uri: https://playcash.network/en/signup.html
+File Name: E:\DownLoaded_WebSites\playcash.network\en\signup.html
+Content Type: text/html
+
+Uri: https://playcash.network/img/blue_light.png
+File Name: E:\DownLoaded_WebSites\playcash.network\img\blue_light.png
+Content Type: image/png
+
+Uri: https://playcash.network/img/favicon_p.jpg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\favicon_p.jpg
+Content Type: image/jpeg
+
+Uri: https://playcash.network/img/red_light.png
+File Name: E:\DownLoaded_WebSites\playcash.network\img\red_light.png
+Content Type: image/png
+
+Uri: https://playcash.network/img/svg/angle-top.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\angle-top.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-1.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-1.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-10.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-10.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-11.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-11.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-12.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-12.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-13.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-13.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-2.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-2.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-3.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-3.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-4.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-4.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-5.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-5.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-6.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-6.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-7.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-7.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-8.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-8.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/img/svg/bg_part-9.svg
+File Name: E:\DownLoaded_WebSites\playcash.network\img\svg\bg_part-9.svg
+Content Type: image/svg+xml
+
+Uri: https://playcash.network/js/main.js?version=2
+File Name: E:\DownLoaded_WebSites\playcash.network\js\main.js
+Content Type: application/javascript
+
+Uri: https://playcash.network/js/scrolloverflow.min.js
+File Name: E:\DownLoaded_WebSites\playcash.network\js\scrolloverflow.min.js
+Content Type: application/javascript
+
