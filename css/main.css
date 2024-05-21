@@ -139,11 +139,16 @@ section {
 
 body {
     line-height: 1;
-    font-family: Roboto, sans-serif;
+    font-family: "Myriad Pro" !important;
     color: #fff;
     font-size: 18px;
     background-color: #000;
     overflow: hidden
+}
+
+* {
+    font-family: "Myriad Pro" !important;
+    font-weight: bolder !important;
 }
 
 ol,
